@@ -4,11 +4,9 @@
 
 2. What is the constructor?
 
-3. Create a simple function that logs the date.
+3. What does the return statement do?
 
-4. What does the return statement do?
-
-5. What will be written to the console from this function:
+4. What will be written to the console from this function:
 		function myFunction(){
 			  return console.log('inside my function');
 			  console.log('My name is Andy');
@@ -16,4 +14,4 @@
 		myFunction();
 
 
-7. Briefly describe scope in JavaScript.
+5. Briefly describe scope in JavaScript.
